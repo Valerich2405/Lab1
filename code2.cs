@@ -20,7 +20,7 @@ namespace _3._1Сsharp
 
             for(int i=0; i<n; i++)
             {
-                arr[i] = rand.Next(-10, 10);
+                arr[i] = rand.Next(-11, 11);
             }
 
             Console.WriteLine("Згенерований масив: ");
